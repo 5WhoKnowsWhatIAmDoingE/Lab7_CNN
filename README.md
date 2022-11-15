@@ -2,6 +2,7 @@
 a simple but fairly broken means of completing a lab assignment about neural networking
 
 Collaborators: Michael Papa and William Olson
+githublink: https://github.com/5WhoKnowsWhatIAmDoingE/Lab7_CNN
 
 youtube demos:
 	Balloon Game:
